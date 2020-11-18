@@ -354,7 +354,7 @@ border: 1px solid #ECECEC;
   margin-right: 30px;
 }
 .portfolio-img-container {
-  margin: 20px 24px 20px 24px;
+  padding: 20px 24px 20px 24px;
 }
 
 .portfolio-img-title {
