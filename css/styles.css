@@ -85,8 +85,10 @@ h5,h6,body,ul,li,p {
 }
 .menu-contacts .menu-contacts-item {
   display: block;
-  padding: 10px;
   text-decoration: none;
+}
+.last-item {
+  margin-left: 50px;
 }
 .menu-list a {
   font-family: 'Roboto';
