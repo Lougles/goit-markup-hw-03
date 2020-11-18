@@ -23,8 +23,6 @@ h5,h6,body,ul,li,p {
 /*Логотип*/
 .container {
   width: 1200px;
-  /* padding-left: 15px;
-  padding-right: 15px; */
   margin: 0 auto;
 }
 
@@ -90,6 +88,7 @@ h5,h6,body,ul,li,p {
 .last-item {
   margin-left: 50px;
 }
+
 .menu-list a {
   font-family: 'Roboto';
   font-style: normal;
